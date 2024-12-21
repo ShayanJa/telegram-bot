@@ -1,5 +1,5 @@
 {
-  "name": "crypto-price-monitor",
+  "name": "telegram-bot",
   "private": true,
   "type": "module",
   "scripts": {
